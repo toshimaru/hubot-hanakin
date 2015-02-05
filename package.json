@@ -1,0 +1,26 @@
+{
+  "name": "hubot-hanakin",
+  "version": "0.0.1",
+  "description": "花金だーワッショーイ！テンションAGEAGEマック",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toshimaru/hubot-hanakin.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hanakin"
+  ],
+  "author": "toshimaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshimaru/hubot-hanakin/issues"
+  },
+  "homepage": "https://github.com/toshimaru/hubot-hanakin",
+  "dependencies": {
+  }
+}
