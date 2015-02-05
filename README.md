@@ -1,4 +1,4 @@
-# 花金だーワッショーイ！テンションAGEAGEマック
+# 花金だーワッショーイ！テンションAGEAGEマック [![npm version](https://badge.fury.io/js/hubot-hanakin.svg)](http://badge.fury.io/js/hubot-hanakin)
 
 ## Installation
 
