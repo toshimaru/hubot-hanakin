@@ -12,4 +12,6 @@
 
 module.exports = (robot) ->
   robot.hear /(hanakin|花金|金曜|ファナキン)/i, (msg) ->
-    msg.send '花金だーワッショーイ！テンションAGEAGEマック'
+    // Respond only when, thank God, it is Friday!
+    if new Date().getDay() == 5
+      msg.send '花金だーワッショーイ！テンションAGEAGEマック'
