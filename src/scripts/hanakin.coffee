@@ -12,4 +12,5 @@
 
 module.exports = (robot) ->
   robot.hear /(hanakin|花金|金曜|ファナキン)/i, (msg) ->
-    msg.send '花金だーワッショーイ！テンションAGEAGEマック'
+    if new Date().getDay() == 5
+      msg.send '花金だーワッショーイ！テンションAGEAGEマック'
