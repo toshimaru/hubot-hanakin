@@ -1,5 +1,3 @@
-= # 花金だーワッショーイ！テンションAGEAGEマック [![npm version](h...
-[2015-10-11 01:42]
 # 花金だーワッショーイ！テンションAGEAGEマック [![npm version](https://badge.fury.io/js/hubot-hanakin.svg)](http://badge.fury.io/js/hubot-hanakin)
 
 ## Installation
